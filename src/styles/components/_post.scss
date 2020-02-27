@@ -1,0 +1,33 @@
+.post {
+  border-bottom: 1px solid $blue;
+  padding-bottom: $s-size;
+}
+
+.post__title {
+  color: $off-white;
+  cursor: pointer;
+  margin: $s-size 0 $s-size 0;
+  transition: 0.2s;
+}
+
+.post__body {
+  padding: $s-size;
+  background: $navy;
+}
+
+.post__address {
+  color: $blue;
+  margin: 0;
+  padding: $s-size;
+}
+
+.post__entry {
+  color: $off-white;
+  margin: 0;
+  padding: $s-size;
+  line-height: 2.5rem;
+}
+
+.post__title:hover {
+  color: $pink;
+}
