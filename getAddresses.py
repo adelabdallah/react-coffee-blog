@@ -13,28 +13,28 @@ shops = ["Boxcar+Social", "Nutbar+(Assembly+Chef's+Hall)", "Versus+Coffee", "Odi
          "The+Merseyside", "Milky's+Coffee", "Pilot+Coffee+Roasters", "Bluestone+Lane+Downtown+Coffee+Shop", "Wallace+Espresso", "Ella's+Uncle", "Outpost+Coffee+Roasters",
          "Ezra's+Pound", "First+&+Last+Coffee+Shop", "The+Good+Neighbour", "Krave+Coffee", "Sam+James+Coffee+Bar", "Moonbean+Coffee+Company", "Safehouse+Coffee", "Cops+Toronto",
          "Cafe+Con+Leche", "Clove+Apple+Cafe", "The+Abbott+of+Parkdale", "Cozy+Coffee+Co", "Supernova+Coffee", "Rialto+Espresso+Bar", "Happy+Coffee+and+Wine", "Black+Cat+Espresso+Bar",
-         "Maderas+Cafe", "Goldstruck+Coffee", "Five+Elements+Espresso+Bar", "Rise+Espresso"]
-
+         "Maderas+Cafe", "Goldstruck+Coffee", "Five+Elements+Espresso+Bar", "Rise+Espresso", "Hamers+Coffee", "Forget+Me+Not+Cafe", "Le+Gourmand"]
 
 className = 'LrzXr'
-
-
+headers = {
+    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
 tag = 'span'
 nameAddress = {}
 
 for shop in shops:
+    url = 'https://google.ca/search?q=' + shop + '+toronto'
 
     print('Currently getting ' + shop.replace('+', ' ') + ' address')
 
-    page = requests.get('https://google.ca/search?q=' + shop + '+toronto')
-    soup = BeautifulSoup(page.content, 'html.parser')
-    address = soup.find('span', attrs={'class': 'LrzXr'})
+    page = requests.get(url, headers=headers)
+    soup = BeautifulSoup(page.text, 'html.parser')
+    address = soup.find('span', class_='LrzXr')
 
     if address == None:
         print('Address didn\'t resolve')
         nameAddress[shop.replace('+', ' ')] = 'none'
     else:
-        print(shop.replace('+', ' ') + ' address is ' + str(address))
-        nameAddress[shop.replace('+', ' ')] = str(address)
+        print(shop.replace('+', ' ') + ' address is ' + str(address.text))
+        nameAddress[shop.replace('+', ' ')] = str(address.text)
 
 print(nameAddress)

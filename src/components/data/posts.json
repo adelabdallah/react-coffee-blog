@@ -1,13 +1,13 @@
 [
   {
     "name": "Boxcar Social",
-    "address": "235 Queens Quay W, Toronto, ON M5J 2G8",
+    "address": "none",
     "entry": "Loud and boisterous in the evenings, quaint and sweet during the day. Love it. They got your standard beverages, all of which are quite tasty. I tried a pour-over at the Temperance location that was an absolute delight. I’m big on their mochas and London fogs. Also good for a nice Americano.\nOne of the biggest shops in the city, rivaling Dark Horse Espresso on Spadina. Plenty of room for you and yer buds. Also a decent selection of food. Had a steak tartare there once and it was great. Perhaps I’m uncultured swine because when I ordered it I didn’t know what tartare even was, but I thought it was quite delicious. Their smoked salmon on toast is also really nice if you stop by during the day. Just note that the food is a bit pricey, as well as the drinks, in my opinion. I’m probably gonna contradict myself a million times on this website as to what is pricey and what isn’t… Bear with me.\nI helped my wife get a job here once. Thanks Tianna, you’re a real one. She was leaving her current position and was able to hot potato to my wife. Dope. Stay in touch with your friends from school, dear reader.\nTurbo bonus: SKATING IN THE WINTER. I’m a tall, lanky, out of shape Arab man who has no business on ice but one day dreams of being able to do the ice hockeys. I take whatever opportunities I can do to some knife sliding. The Natrel public rink is directly in front of the Harbourfront Boxcar Social location. Warm beverages and skating. Not much of a better winter duo.\nThis place is great for people/boat/plane watching in the big windows. Take your time here, it’s snug."
   },
   {
-    "name": "Nutbar (Assembly Chef's Hall)",
+    "name": "Nutbar (Assembly Chefs Hall)",
     "address": "111 Richmond St W, Toronto, ON M5H 2G4",
-    "entry": "Entry not yet written"
+    "entry": ""
   },
   {
     "name": "Versus Coffee",
@@ -15,473 +15,478 @@
     "entry": "One of the more darling coffee shops I’ve been to. Very smol. Lovely bright aesthetic, with a nice patio for the warmer months. I came here during the dead of winter though, so none of that for me. I’ve only been here once, and had a wonderful London fog. The huge windows make this place great for reading and for Instagram selfies if you’re into that. Speaking of taking pictures of everything, you might’ve heard of this place because of their rainbow lattes, wowowowow. They’re known for doing fun colourful art in their bevvies. Doesn’t taste any different but hey it’s NEAT.\nNot much seating here on the inside, but it wasn’t particularly crowded when I went on a Saturday afternoon in the winter. Your mileage may vary. Snow isn’t fun to move through, that might explain the busyness. Come here for a nice chat, a warm drink, or with a good book. There’s a theme with these posts. Most shops are good for the aforementioned. Or bring a laptop and get some work done! Just don’t buy a single shot of espresso then sit there for eight hours. Or do, I’m not your mom. I just think it’s not very nice."
   },
   {
-    "name": "Odin Cafe + Bar",
+    "name": "Odin Cafe Bar",
     "address": "514 King St E, Toronto, ON M5A 1M1",
     "entry": "Intriguing modern aesthetic, high ceilings, big windows, ANGLES, greens, and quite a bit of seating. Decent crowd when I went on a Saturday afternoon. As with any super bright shop, this a good stop for some reading. Then you can keep walking to Riverdale park, or something. I got a matcha latte and a chicken sandwich. Both hit the spot. I especially recommend the matcha latte to those who enjoy the taste of grass and earth, which I do. Yum yum soil. Louisa got an almond milk latte that she quite enjoyed as well. \nOverall this place is a good time. I’d love to go back, it’s just a bit of a stroll from where we are. Reminds me of the Settlement Co in Kitchener on King and Victoria. Grab a buncha friends and hang out for a while then take a stroll down to the Distillery District for whatever thing is probably happening."
   },
   {
     "name": "Blackrock Coffee (now closed)",
-    "address": "677 Bloor St W #2, Toronto, ON M6G 1L3",
-    "entry": "Entry not yet written"
+    "address": "none",
+    "entry": ""
   },
   {
     "name": "Manic Coffee",
     "address": "426 College St, Toronto, ON M5T 1T3",
-    "entry": "Entry not yet written"
+    "entry": ""
   },
   {
     "name": "Strange Love Coffee",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "101 Spadina Ave, Toronto, ON M5V 2K2",
+    "entry": ""
   },
   {
     "name": "Dark Horse Espresso Bar",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "none",
+    "entry": ""
   },
   {
     "name": "Quantum Coffee",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "460 King St W, Toronto, ON M5V 1L7",
+    "entry": ""
   },
   {
     "name": "Hopper Coffee",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "324 College St, Toronto, ON M5T 1S3",
+    "entry": ""
   },
   {
     "name": "Reunion Island",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "385 Roncesvalles Ave, Toronto, ON M6R 2N1",
+    "entry": ""
   },
   {
     "name": "Hailed Coffee",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "none",
+    "entry": ""
   },
   {
     "name": "Empire Espresso",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "668 College St, Toronto, ON M6G 1B9",
+    "entry": ""
   },
   {
     "name": "Marvel Coffee Co",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "none",
+    "entry": ""
   },
   {
     "name": "Soul Chocolate",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "583 Gerrard St E, Toronto, ON M4M 1Y2",
+    "entry": ""
   },
   {
     "name": "Hot Black Coffee",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "245 Queen St W, Toronto, ON M5V 1Z4",
+    "entry": ""
   },
   {
     "name": "Gloria Espresso and Coffee Bar",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "478 Roncesvalles Ave, Toronto, ON M6R 2N5",
+    "entry": ""
   },
   {
     "name": "Hale Coffee",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "300 Campbell Ave Unit #103, Toronto, ON M6P 3V6",
+    "entry": ""
   },
   {
     "name": "Field Trip Coffee and Espresso",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "3 Westmoreland Ave, Toronto, ON M6H 2Z6",
+    "entry": ""
   },
   {
     "name": "Tampered Press",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "256 Crawford St Unit B Dundas St W, Toronto, ON M6J 2V8",
+    "entry": ""
   },
   {
     "name": "i deal coffee",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "none",
+    "entry": ""
   },
   {
     "name": "Baker and Scone",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "693 St Clair Ave W, Toronto, ON M6C 1B2",
+    "entry": ""
   },
   {
     "name": "Capital Espresso",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "1349 Queen St W, Toronto, ON M6K 1M1",
+    "entry": ""
   },
   {
-    "name": "Fix Coffee + Bikes",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "name": "Fix Coffee Bikes",
+    "address": "80 Gladstone Ave, Toronto, ON M6J 3K7",
+    "entry": ""
   },
   {
     "name": "Death in Venice Gelato Company",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "1418 Dundas St W, Toronto, ON M6J 1Y5",
+    "entry": ""
   },
   {
     "name": "Cherry Bomb",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "79 Roncesvalles Ave, Toronto, ON M6R 2K6",
+    "entry": ""
   },
   {
     "name": "Rooster Coffee",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "none",
+    "entry": ""
   },
   {
     "name": "Lit Espresso Bar",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "none",
+    "entry": ""
   },
   {
     "name": "Full of Beans",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "1348 Dundas St W, Toronto, ON M6J 1Y3",
+    "entry": ""
   },
   {
     "name": "Cygnet Coffee",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "1691 Dundas St W, Toronto, ON M6K 1V2",
+    "entry": ""
   },
   {
     "name": "Merchants of Green Coffee",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "2 Matilda St, Toronto, ON M4M 1L9",
+    "entry": ""
   },
   {
     "name": "Early Bird Coffee and Kitchen",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "none",
+    "entry": ""
   },
   {
     "name": "The Brockton Haunt",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "1150 College St, Toronto, ON M6H 1B5",
+    "entry": ""
   },
   {
     "name": "Run & Gun Coffee",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "none",
+    "entry": ""
   },
   {
-    "name": "Bud's Coffee Bar",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "name": "Buds Coffee Bar",
+    "address": "1966 Queen St E, Toronto, ON M4L 1H8",
+    "entry": ""
   },
   {
     "name": "Cafe Plenty",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "none",
+    "entry": ""
   },
   {
     "name": "Soma Chocolatemaker",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "none",
+    "entry": ""
   },
   {
     "name": "Thor Espresso Bar",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "35 Bathurst St, Toronto, ON M5V 2P2",
+    "entry": ""
   },
   {
     "name": "Mercury Espresso Bar",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "915 Queen St E, Toronto, ON M4M 1J4",
+    "entry": ""
   },
   {
     "name": "Red Rocket Coffee",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "1364 Danforth Ave, Toronto, ON M4J 1M9",
+    "entry": ""
   },
   {
     "name": "Propeller Coffee Co",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "50 Wade Ave, Toronto, ON M6H 2Z3",
+    "entry": ""
   },
   {
     "name": "Bicerin Espresso Bar",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "37 Baldwin St, Toronto, ON M5T 1L1",
+    "entry": ""
   },
   {
     "name": "Creeds Coffee Bar",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "390 Dupont St, Toronto, ON M5R 1V9",
+    "entry": ""
   },
   {
-    "name": "Jimmy's Coffee",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "name": "Jimmys Coffee",
+    "address": "none",
+    "entry": ""
   },
   {
     "name": "FIKA Cafe",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "28 Kensington Ave, Toronto, ON M5T 2J9",
+    "entry": ""
   },
   {
     "name": "Dogs and Coffee (now closed)",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "6 Markham St, Toronto, ON M6J 1E3",
+    "entry": ""
   },
   {
     "name": "Livelihood Café",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "254 Augusta Ave, Toronto, ON M5T 2L7",
+    "entry": ""
   },
   {
     "name": "Extra Butter Coffee",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "283 Roncesvalles Ave, Toronto, ON M6R 2M3",
+    "entry": ""
   },
   {
-    "name": "Soufi's",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "name": "Soufis",
+    "address": "676 Queen St W, Toronto, ON M6J 1E5",
+    "entry": ""
   },
   {
     "name": "Neo Coffee Bar",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "161 Frederick St Unit 100, Toronto, ON M5A 4P3",
+    "entry": ""
   },
   {
     "name": "Major Treat Coffee",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "1158 Queen St W, Toronto, ON M6J 1J5",
+    "entry": ""
   },
   {
     "name": "The Library Specialty Coffee",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "281 Dundas St W, Toronto, ON M5T 1G1",
+    "entry": ""
   },
   {
     "name": "Dineen Coffee Co",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "none",
+    "entry": ""
   },
   {
     "name": "Brodflour",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "8 Pardee Ave, Toronto, ON M6K 3H1",
+    "entry": ""
   },
   {
     "name": "French Made",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "80 Blue Jays Way, Toronto, ON M5V 2G3",
+    "entry": ""
   },
   {
     "name": "Piedmont Coffee Bar",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "66 Isabella St #4, Toronto, ON M4Y 1N3",
+    "entry": ""
   },
   {
     "name": "Black Canary Espresso",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "none",
+    "entry": ""
   },
   {
     "name": "Mast Coffee",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "68 Shuter St, Toronto, ON M5B 0B4",
+    "entry": ""
   },
   {
     "name": "Bampot Bohemian House of Tea",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "201 Harbord St, Toronto, ON M5S 1H6",
+    "entry": ""
   },
   {
     "name": "Simit and Chai",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "787 King St W, Toronto, ON M5V 1N4",
+    "entry": ""
   },
   {
     "name": "Agenda Cafe",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "622 College St, Toronto, ON M6G 1B4",
+    "entry": ""
   },
   {
     "name": "Te Aro",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "983 Queen St E, Toronto, ON M4M 1K2",
+    "entry": ""
   },
   {
     "name": "Coffee and Clothing",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "348 Pape Ave, Toronto, ON M4M 1Z2",
+    "entry": ""
   },
   {
     "name": "Shy Coffee Co",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "766 King St W #3, Toronto, ON M5V 1N6",
+    "entry": ""
   },
   {
     "name": "Jacked Up Coffee",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "225 King St W, Toronto, ON M5V 3M2",
+    "entry": ""
   },
   {
     "name": "Tandem Coffee",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "368 King St E, Toronto, ON M5A 1K9",
+    "entry": ""
   },
   {
     "name": "De Mello Palheta Specialty Coffee Roasters",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "2489 Yonge St, Toronto, ON M4P 2H6",
+    "entry": ""
   },
   {
     "name": "Little Pebbles",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "160 Baldwin St #8, Toronto, ON M5T 3K7",
+    "entry": ""
   },
   {
     "name": "The Merseyside",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "2413 Dundas St W, Toronto, ON M6P 1X3",
+    "entry": ""
   },
   {
-    "name": "Milky's Coffee",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "name": "Milkys Coffee",
+    "address": "760 Dundas St W, Toronto, ON M6J 1T8",
+    "entry": ""
   },
   {
     "name": "Pilot Coffee Roasters",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "117 Ossington Ave, Toronto, ON M6J 2Z2",
+    "entry": ""
   },
   {
     "name": "Bluestone Lane Downtown Coffee Shop",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "37 King St E, Toronto, ON M5C 1E9",
+    "entry": ""
   },
   {
     "name": "Wallace Espresso",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "none",
+    "entry": ""
   },
   {
-    "name": "Ella's Uncle",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "name": "Ellas Uncle",
+    "address": "916 Dundas St W, Toronto, ON M6J 2P8",
+    "entry": ""
   },
   {
     "name": "Outpost Coffee Roasters",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "1578 Bloor St W, Toronto, ON M6P 1A4",
+    "entry": ""
   },
   {
-    "name": "Ezra's Pound",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "name": "Ezras Pound",
+    "address": "238 Dupont St, Toronto, ON M5R 1V7",
+    "entry": ""
   },
   {
     "name": "First & Last Coffee Shop",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "346 Dupont St, Toronto, ON M5R 1V9",
+    "entry": ""
   },
   {
     "name": "The Good Neighbour",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "none",
+    "entry": ""
   },
   {
     "name": "Krave Coffee",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "781 St Clair Ave W #2 Toronto, ON M6C 1B7, ",
+    "entry": ""
   },
   {
     "name": "Sam James Coffee Bar",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "none",
+    "entry": ""
   },
   {
     "name": "Moonbean Coffee Company",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "30 St Andrew St, Toronto, ON M5T 1K6",
+    "entry": ""
   },
   {
     "name": "Safehouse Coffee",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "1615 Dundas St W, Toronto, ON M6K 1T9",
+    "entry": ""
   },
   {
     "name": "Cops Toronto",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "none",
+    "entry": ""
   },
   {
     "name": "Cafe Con Leche",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "1571 Dupont St, Toronto, ON M6P 3S5",
+    "entry": ""
   },
   {
     "name": "Clove Apple Cafe",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "1405 Queen St W, Toronto, ON M6K 1M3",
+    "entry": ""
   },
   {
     "name": "The Abbott of Parkdale",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "99 Spencer Ave, Toronto, ON M6K 1G6",
+    "entry": ""
   },
   {
     "name": "Cozy Coffee Co",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "200 Queen St W, Toronto, ON M5V 1Z2",
+    "entry": ""
   },
   {
     "name": "Supernova Coffee",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "897 Broadview Ave, Toronto, ON M4K 2P9",
+    "entry": ""
   },
   {
     "name": "Rialto Espresso Bar",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "266 Adelaide St W Unit 2, Toronto, ON M5H 1X6",
+    "entry": ""
   },
   {
     "name": "Happy Coffee and Wine",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "1304 King St W, Toronto, ON M6K 1G8",
+    "entry": ""
   },
   {
     "name": "Black Cat Espresso Bar",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "1104 College St, Toronto, ON M6H 1B3",
+    "entry": ""
   },
   {
     "name": "Maderas Cafe",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "456 Ossington Ave, Toronto, ON M6G 3T2",
+    "entry": ""
   },
   {
     "name": "Goldstruck Coffee",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "130 Cumberland St, Toronto, ON M5R 1A6",
+    "entry": ""
   },
   {
     "name": "Five Elements Espresso Bar",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "131 Avenue Rd, Toronto, ON M5R 2H7",
+    "entry": ""
   },
   {
     "name": "Rise Espresso",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "388 Carlaw Ave #105a, Toronto, ON M4M 2T4",
+    "entry": ""
   },
   {
     "name": "Hamers Coffee",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "870 Dundas St W, Toronto, ON M6J 1V7",
+    "entry": ""
   },
   {
     "name": "Forget Me Not Cafe",
-    "address": "Not yet added",
-    "entry": "Entry not yet written"
+    "address": "506 Adelaide St W, Toronto, ON M5V 1T5",
+    "entry": ""
+  },
+  {
+    "name": "Le Gourmand",
+    "address": "152 Spadina Ave, Toronto, ON M5V 3S6",
+    "entry": ""
   }
 ]
